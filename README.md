@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **vivek varma**
-- 👀 I’m interested in **Python, Power BI & Tableau**
+- 👀 I’m interested in ** Data science, Python, Power BI & Tableau**
 - 🌱 I’m currently Studing **MBA in Business Intelligence @ NFSU**
 - 💞️ I’m looking to collaborate on **Data Scientist **
 - 📫 How to reach me **vivekvrm427@gmail.com**
